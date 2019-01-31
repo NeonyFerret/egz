@@ -1,0 +1,6 @@
+Standardowe 10.0 -20.4
+Klasyczne 7.77 100.23
+Statystyczne -0.2 55.256
+Normalne -100.0 -100.0
+Zwyczajne 66.6 -0.954
+Pospolite 53.1 -32.0
